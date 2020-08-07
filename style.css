@@ -1,0 +1,88 @@
+body{
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+div{
+    display: block;
+}
+.titulo{
+    font-family: 'Thasadith', sans-serif;
+    color: rgb(49, 102, 106);
+}
+.texto{
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-family: 'Thasadith', sans-serif;
+    color: rgb(49, 102, 106);
+}
+.fundo-cabeçalho{
+
+    background: url(imagens/Mar.jpg)no-repeat;
+    width: 100%; 
+    height: 900px;
+}
+.cabeçalho{
+    background: #fff; /* Fall back, not used in fiddle */
+    background: rgba(255, 255, 255, .5);
+    top: 400px;
+    padding-left: 37%; padding-right: 37%;
+    position: absolute;
+    text-align: center;
+    font-family: 'Thasadith', sans-serif;
+    color:rgb(49, 102, 106);
+
+}
+.botao{
+    background-color: rgb(49, 102, 106);
+    border: solid white 3px;
+    width: 70px;
+    margin: auto;
+    padding: 10px;
+}
+#link{
+    text-decoration: none;
+    color:white;
+    background-color: rgb(49, 102, 106);
+}
+
+.coluna{
+    float: left;
+}
+.um{
+     width: 480px;
+     padding: 190 5%;
+}
+.centralizado{
+    text-align: center;
+
+}
+.justificado{
+    text-align: justify;
+}
+.icone{
+    padding:80 50%;
+}
+section{
+    height: 480px;
+    padding: 20px;
+}
+.destaque{
+    background-color: #f7f7f7;
+}
+.video{
+    padding: 0 5%;
+    float: left;
+}
+.dois{
+    display: block;
+    float: left;
+    text-align: center;
+    width: 40%;
+    
+}
+.tres{
+    width: 15%;
+    float: left;
+    padding: 0 9%;
+}
+
