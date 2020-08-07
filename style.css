@@ -17,7 +17,7 @@ div{
 }
 .fundo-cabeçalho{
 
-    background: url(Imagens/Mar.jpg)no-repeat;
+    background: url(Imagens/Mar.jpg);
     width: 100%; 
     height: 900px;
 }
